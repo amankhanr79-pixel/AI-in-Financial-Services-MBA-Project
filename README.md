@@ -57,7 +57,7 @@ Literature review and synthesis of 15+ peer-reviewed papers, industry reports (F
 
 ## 📄 Full Report
 
-The complete project report (PDF) is available in this repository: [`Artificial_Intelligence_AI_In_Financial_Services.pdf`](./Artificial_Intelligence_AI_In_Financial_Services.pdf)
+The complete project report (PDF) is available in this repository: [`Artificial_Intelligence_AI_In_Financial_Services(1).pdf`](./Artificial_Intelligence_AI_In_Financial_Services.pdf)
 
 ---
 
