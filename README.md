@@ -57,8 +57,8 @@ Literature review and synthesis of 15+ peer-reviewed papers, industry reports (F
 
 ## 📄 Full Report
 
-The complete project report (PDF) is available in this repository: 
-Artificial Intelligence(AI) In Financial Services (1).pdf
+The complete project report (PDF) is available in this repository: [`Artificial_Intelligence_AI_In_Financial_Services.pdf`](./Artificial_Intelligence_AI_In_Financial_Services.pdf)
+
 ---
 
 *This project was submitted in partial fulfillment of the requirement for the MBA degree at Rajasthan Technical University, Kota.*
