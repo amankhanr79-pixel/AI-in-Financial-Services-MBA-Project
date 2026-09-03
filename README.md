@@ -8,12 +8,6 @@ Rajasthan Technical University, Kota (Session 2024–2026)
 
 ---
 
-<p align="center">
-  <img src="./images/cover-page.png" alt="Project Cover Page" width="500"/>
-</p>
-
----
-
 ## 📌 Overview
 
 This project is an in-depth academic study on how Artificial Intelligence (AI) is transforming the financial services industry — covering risk management, customer experience, operational efficiency, and the ethical/regulatory challenges that come with AI adoption in finance.
@@ -54,10 +48,6 @@ Literature review and synthesis of 15+ peer-reviewed papers, industry reports (F
 - Explainable AI (XAI) is critical for regulatory trust, especially in credit and lending decisions
 - Federated learning offers a promising path for privacy-preserving collaborative fraud detection
 - Talent shortage and legacy system integration remain the biggest implementation barriers
-
-## 📄 Full Report
-
-The complete project report (PDF) is available in this repository: [`Artificial_Intelligence_AI_In_Financial_Services(1).pdf`](./Artificial_Intelligence_AI_In_Financial_Services(1).pdf)
 
 ---
 
